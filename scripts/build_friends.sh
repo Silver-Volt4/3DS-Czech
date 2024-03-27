@@ -1,4 +1,5 @@
 set -e
+mkdir -p ../build
 cd ../build
 rm -rf *
 cp "../cias/0004003000009F02 Friend List (CTR-N-HFRP) (E) (v6.0.0).standard.cia" subject.cia

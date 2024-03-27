@@ -1,4 +1,5 @@
 set -e
+mkdir -p ../build
 cd ../build
 rm -rf *
 cp "../cias/0004003000009C02 Game Notes (CTR-N-HGMP) (E) (v4.0.0).standard.cia" subject.cia

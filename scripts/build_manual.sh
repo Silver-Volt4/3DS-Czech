@@ -1,4 +1,5 @@
 set -e
+mkdir -p ../build
 cd ../build
 rm -rf *
 cp "../cias/0004003000009B02 Instruction Manual (CTR-N-HMVP) (E) (v5.0.0).standard.cia" subject.cia

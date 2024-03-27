@@ -1,4 +1,5 @@
 set -e
+mkdir -p ../build
 cd ../build
 rm -rf *
 cp "../cias/000400300000A002 Notifications (CTR-N-HCRP) (E) (v4.0.1).standard.cia" subject.cia
